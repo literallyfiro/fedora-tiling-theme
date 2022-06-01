@@ -29,25 +29,24 @@ This is my personal *Fedora 36* theme. If you want to use this theme, I **DO NOT
 
 ## ⚙️ Using configs
 
-First of all, clone this repo with the commands below
+1. Clone the repo with the commands below
+  
+  ```bash
+  $ git clone https://github.com/ImOnlyFire/fedora-theme
+  $ cd fedora-theme
+  ```
+  
+2. To use the `neofetch` config, you need to copy the config from the repo to the local neofetch config (make sure to install neofetch first!)
+  
+  ```bash
+  $ cp configs/neofetch.conf ~/.config/neofetch/config.conf
+  ```
+  
+3. To use the `pokemon-colorscripts` application on shell startup, you need to add this to the `~/.zshrc` file (make sure to install `ZSH` and `pokemon-colorscript` first!)
+  
+  ```bash
+  $ echo "pokemon-colorscripts -r --no-title" | tee -a ~/.zshrc
+  ```
+  
 
-```bash
-$ git clone https://github.com/ImOnlyFire/fedora-tiling-theme
-$ cd fedora-theme
-```
-
-To use the `neofetch` config, you need to copy the config from the repo to the local neofetch config (make sure to install neofetch first!)
-
-```bash
-$ cp configs/neofetch.conf ~/.config/neofetch/config.conf
-```
-
-To use the `pokemon-colorscripts` application on shell startup, you need to add this to the `~/.zshrc` file (make sure to install `ZSH` and `pokemon-colorscript` first!)
-
-```bash
-$ echo "pokemon-colorscripts -r --no-title" | tee -a ~/.zshrc
-```
-
-To install theme, icon packs, and the other stuff, just look the documentation for each content
-
-
+To install theme, icon packs, and the other stuff, just look at the documentation for each content
