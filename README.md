@@ -1,28 +1,17 @@
 # My Fedora 36 Theme
 
----
-
 This is my personal *Fedora 36* theme. If you want to use this theme, I **DO NOT** take any resposibility if anything breaks during the process. **This is not an installation guide!**
 
+## 🖼️ Gallery
 
-
-### 🖼️ Gallery
-
----
-
-<img title="" src="gallery/1.png" alt="Wallpapers" data-align="inline" width="707">
-
-![Wallpapers](gallery/2.png)
-
-![Wallpapers](gallery/3.png)
-
-![Wallpapers](gallery/4.png)
+<img title="" src="gallery/1.png" alt="Wallpapers" width="707"/>
+<img title="" src="gallery/2.png" alt="Wallpapers" width="707"/>
+<img title="" src="gallery/3.png" alt="Wallpapers" width="707"/>
+<img title="" src="gallery/4.png" alt="Wallpapers" width="707"/>
 
 
 
-### 🎁 Table of Contents
-
----
+## 🎁 Table of Contents
 
 | Name                                                                                            | Type                                                  | Description                                                                                                                       |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,11 +26,8 @@ This is my personal *Fedora 36* theme. If you want to use this theme, I **DO NOT
 | [Pokemon Colorscripts](https://github.com/nuke-dash/pokemon-colorscripts-mac)                   | Application                                           | Prints a cute pokemon (used inside zshrc)                                                                                         |
 | ZSH                                                                                             | Shell                                                 | Shell used in this personalization (default was bash)                                                                             |
 
-### 
 
-### ⚙️ Using configs
-
----
+## ⚙️ Using configs
 
 First of all, clone this repo with the commands below
 
