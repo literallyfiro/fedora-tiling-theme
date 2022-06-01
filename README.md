@@ -32,7 +32,7 @@ This is my personal *Fedora 36* theme. If you want to use this theme, I **DO NOT
 First of all, clone this repo with the commands below
 
 ```bash
-$ git clone https://github.com/ImOnlyFire/fedora-theme
+$ git clone https://github.com/ImOnlyFire/fedora-tiling-theme
 $ cd fedora-theme
 ```
 
