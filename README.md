@@ -1,6 +1,6 @@
-# My Fedora 36 Theme
+# My Fedora 36 Personalization
 
-This is my personal *Fedora 36* theme. If you want to use this theme, I **DO NOT** take any resposibility if anything breaks during the process. **This is not an installation guide!**
+This is my personal *Fedora 36* personalization. If you want to use it, I **DO NOT** take any resposibility if anything breaks during the process. **This is not an installation guide!**
 
 ## 🖼️ Gallery
 
